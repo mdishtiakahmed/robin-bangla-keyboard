@@ -5,9 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_alignParentBottom="true"
+    
     android:background="#EFF0F4"
     
     android:keyPreviewLayout="@layout/key_preview"
+    android:keyPreviewOffset="10dp"
+    android:keyPreviewHeight="40dp"
+    
     android:popupLayout="@layout/popup_layout"
     
     android:keyBackground="@drawable/key_background"
